@@ -3,7 +3,7 @@ body {
   flex-direction: column;
   align-items: center;
   margin-top: 100px;
-  background-image: url(images/tekstura-derevyannyy-fon.jpg);
+  background-image: url(./images/tekstura-derevyannyy-fon.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
